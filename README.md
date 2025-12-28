@@ -1,3 +1,10 @@
-### mcnew.github.io
+# mcnew.github.io
 
-Este es un ejemplo
+Este es un _ejemplo_
+
+1. algo
+2. otro
+
+
+- alguno
+- siguiente
