@@ -1,6 +1,6 @@
 # mcnew.github.io
 
-Este es un _ejemplo_
+Este es un __ejemp*lo__
 
 1. algo
 2. otro
